@@ -1,0 +1,13 @@
+# Visual Studio Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Neural Network Model
+*.h5
+
+# NumPy Array
+*.npy
